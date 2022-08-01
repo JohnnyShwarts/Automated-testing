@@ -44,4 +44,4 @@ finally:
     # waiting to evaluate the results of passing the script
     time.sleep(5)
     # close the browser after all manipulations
-    browser.quit()
+    browser.quit() 
